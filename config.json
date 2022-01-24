@@ -1,0 +1,6 @@
+{
+    "cookie": "captcha=solvemedia; _ga=GA1.1.34017752.1642833414; ci_session=fa80e626cc259061e2d06e496338c36117244d74; _coinzilla_fp_={\"backed\":[{\"cap\":2,\"lastCall\":1642956726599}]}; bitmedia_fid=eyJmaWQiOiJhZmY0MTI3N2FiOTdlNjRkMmJhNjg4YjAyMzMwNzhkNiIsImZpZG5vdWEiOiI3NmQ2NDdjNzNlZDkyYmM5MjEwMjhjMTBjMTdkMDhjMCJ9; _ga_VS31PY7S55=GS1.1.1642953638.2.1.1642956806.0; csrf_cookie_name=69c0c8ecb3b7552d464ca8c4fda99e4b",
+    "user-agent": "Mozilla\/5.0 (Linux; Android 9; Mi A1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/98.0.4758.60 Mobile Safari\/537.36",
+    "url-solve": "https:\/\/api-secure.solvemedia.com\/papi\/_challenge.js?k=gSLe-eHpGj.vpbxTLPqaRSshaSR75IGi;f=_ACPuzzleUtil.callbacks[0];l=en;t=img;s=standard;c=js,h5c,h5ct,svg,h5v,v\/h264,v\/webm,h5a,a\/mp3,a\/ogg,ua\/chrome,ua\/chrome98,os\/android,os\/android9,fwv\/BZjieg.gffv26,htmlplus;am=iqqyXsvbZzmPMl46y9tnOQ;ca=script;ts=1642956319;ct=1642956801;th=white;r=0.528998388412667",
+    "wallet": "DFaMXnwHc8iPpMFRRcaWYcUhPPsdD5PXgL"
+}
